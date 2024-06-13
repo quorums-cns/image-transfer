@@ -1,3 +1,2 @@
-redis
-python
 
+portainer/portainer-ce:latest
