@@ -1,1 +1,4 @@
-portainer/agent:2.19.5
+kubernetesui/dashboard-api:1.7.0
+kubernetesui/dashboard-auth:1.1.3
+kubernetesui/dashboard-metrics-scraper:1.1.1
+kubernetesui/dashboard-web:1.4.0
