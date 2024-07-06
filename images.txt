@@ -1,1 +1,2 @@
 squat/kilo:0.6.0
+redis
